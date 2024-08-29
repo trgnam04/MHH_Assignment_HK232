@@ -1,0 +1,109 @@
+NHẬT KÝ THỰC HIỆN BÀI TẬP LỚN MÔN HỌC MÔ HÌNH HÓA TOÁN HỌC (CO2011) HỌC KỲ 233
+Nhóm: 2212153 - Lớp: DT01 - Số thành viên: 5
+
+A. DANH SÁCH THÀNH VIÊN
+STT	HỌ VÀ TÊN				MSSV		Tỷ lệ nỗ lực trong làm việc nhóm
+1 	Nguyễn Vương Trung Nam (nhóm trưởng) 	2212153		100%
+2	Nguyễn Anh Lâm							2211795		100%
+3	Lê Quang Minh							2212047		100%
+4	Bùi Xuân Bách							2210179		90%
+5	Ngô Đức Luân							2211949		90%
+
+B. NỘI DUNG HỌP PHÂN CHIA CÔNG VIỆC VÀ BÁO CÁO TIẾN ĐỘ
+
+1. Buổi họp 1
+a) Thời gian: 20h30 - Thứ 7 - 27/07/2024
+b) Địa điểm: Online Google Meet
+c) Thời lượng: 45 phút
+d) Thành phần tham dự: 5/5 thành viên
+e) Nội dung công việc 
+
+Phần 1: Đánh giá kết quả thảo luận
+
+Thảo luận về các thuật toán do nhóm tìm hiểu được do trước đó nhóm trưởng đã cho các thành viên 4 ngày để tìm hiểu đề bài tập lớn
+và chuẩn bị kiến thức cho bài tập lớn, và được phân công tìm hiểu và đề xuất các giải thuật hoặc heuristic để nhóm nghiên cứu
+Nhìn chung các thành viên chưa đầu tư và việc tìm hiểu các thuật toán và vấn đề xuất hiện trong bài tập lớn
+Kết luận: Chọn hai thuật toán để nghiên cứu theo ý của nhóm trưởng giải thuật Column Generation và Branch and Bound
+
+Phần 2: Thống nhất cách làm việc chung
+
+- Tạo không gian drive để đăng tài liệu tham khảo, là nơi up công việc nhóm và sheet theo dõi tiến độ làm việc.
+- Các thành viên có nghĩa vụ hoàn thành công việc được cập nhật trên sheet theo dõi tiến độ, về việc nộp phần công việc của từng cá nhân,
+làm và cập nhật vào file doc đuọc tạo sẵn trên drive chung để dễ dàng cho việc sửa đổi, theo dõi và tổng hợp Latex. Các thành viên không chỉ
+hoàn thành công việc của cá nhân mà còn phải tham gia tìm hiểu và đóng góp xây dựng vào vấn đề chung.
+
+Phần 3: Phân chia công việc cho từng thành viên như sau:
+
+- Công việc chung: các thành viên phải hiểu các vấn đề trong bài tập lớn để tham gia vào việc cải thiện và sửa đổi trong quá trình làm
+bài.
+- Nguyễn Vương Trung Nam: Đọc tài liệu tham khảo tìm được về hai thuật toán trên.
+- Nguyễn Anh Lâm: Đọc tài liệu tham khảo về hai toán trên và tìm định hướng thực thi bằng python. 
+- Bùi Xuân Bách: làm phần literature review.
+- Ngô Đức Luân: làm phần literature review.
+- Lê Quang Minh: làm phần introduction.
+
+
+2. Buổi họp 2
+a) Thời gian: 22g00 - Chủ nhật - 28/07/2024
+b) Địa điểm: Google Meet
+c) Thời lượng: 15 phút
+d) Thành phần tham dự: 3/3 thành viên, 2 thành viên đảm nhận phần Literature Review và nhóm trưởng.
+e) Nội dung công việc: Trao đổi định hướng làm phần Literature Review.
+f) Các vấn đề đã trao đổi
+- Thống nhất các bài báo để tham khảo tránh lang man, nhiệm vụ chính của phần này mà nhóm hướng đến là tổng hợp và sắp xếp thông tin.
+
+3. Buổi họp 3
+a) Thời gian: 21g00 - Thứ 5 - 01/08/2024
+b) Địa điểm: Google Meet
+c) Thời lượng: 20 phút
+d) Thành phần tham dự: 5/5 thành viên
+e) Nội dung công việc (phân công/đã hoàn thành)
+Tiếp tục trao đổi về vấn đề giải thuật và mô hình nhóm sẽ chọn, do có sự sai sót từ phần giải thuật được chọn từ trước.
+f) Các vấn đề đã trao đổi
+Phần 1: Thảo luận trao đổi 
+- Nhóm chuyển sang nghiên cứu tài liệu được gửi chung đọc và tìm hiểu giải thuật cũng như tiếp cận cách mô hình trong đó.
+- Nhóm quyết định sử dụng Exhaustive Repetition Heuristic kết hợp với hai giải thuật FFD và Greedy để tiếp cận bài toán.
+Phần 2: Phân công nhiệm vụ
+- Trung Nam: tìm CaseStudy, Synthetic Data và nghiên cứu cách trình bày Result Analysist, Algorithm, Modeling từ các tài liệu tham khảo.
+- Quang Minh: tìm hiểu và làm phần modeling trong tài liệu.
+- Anh Lâm: thực thi hai giải thuật Greedy và FFD.
+- Xuân Bách, Đức Luân: Hỗ trợ Anh Lâm phần FFD
+
+
+4. Buổi họp 4
+a) Thời gian: 20h - Chủ Nhật - 03/08/2024
+b) Địa điểm: 
+c) Thời lượng: 
+d) Thành phần tham dự:
+e) Nội dung công việc 
+- Đánh giá công việc qua nhóm Messenger.
+f) Các vấn đề đã trao đổi
+- Xuân Bách, Đức Luân chưa hoàn thành phần FFD.
+- Đánh giá chung các thành viên chưa tìm hiểu kĩ vấn đề nên phần bài làm bị lạc đề.
+
+5. Buổi họp 5
+a) Thời gian: 21g00 - Thứ 4 - 07/08/2024
+b) Địa điểm: Google Meet
+c) Thời lượng: 120 phút
+d) Thành phần tham dự: Trung Nam và Anh Lâm
+e) Nội dung công việc (phân công/đã hoàn thành)
+- Thảo luận và chốt mô hình bài toán được sử dụng để giải quyết vấn đề.
+- Thống nhất về input và output của các hàm trong chương trình để thực thi giải thuật.
+- Thống nhất về các bộ dữ liệu và CaseStudy được sử dụng.
+f) Các vấn đề đã trao đổi
+- Mô hình sử dụng tiếp cận theo hướng tối ưu phần dư thừa ở mỗi pattern được cắt việc này giúp phù hợp với hướng tiếp cận giải thuật nhóm
+đã chọn.
+- Input và Output dạng file.
+- Outout cần thể hiện được các pattern đuọc sử dụng, lượng dư ở mỗi pattern, tổng lượng dư, tổng thanh được sử dụng, thời gian chạy.
+- Chọn các bộ dữ liệu và CaseStudy từ một số bài báo mà nhóm tìm được.
+
+6. Buổi họp 6
+a) Thời gian: 21g30 - Thứ 6 - 09/08/2024
+b) Địa điểm: Google Meet
+c) Thời lượng: 50 phút
+d) Thành phần tham dự: Trung Nam và Anh Lâm
+e) Nội dung công việc (phân công/đã hoàn thành)
+- Anh Lâm: Sửa một số lỗi còn tồn đọng trong chương trình và tối ưu một số vấn đề trong chương trình.
+- Trung Nam: Chuẩn bị chạy thử các Input và xuất ra Output để viết báo cáo.
+- Trung Nam và Quang Minh: Hoàn thiện báo cáo.
+
